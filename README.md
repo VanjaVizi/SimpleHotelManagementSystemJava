@@ -26,7 +26,9 @@
  - MySQL database
  - phpMyAdmin
  - xampp
-    
+ 
+ 
+ *********************************************************************************************************************************************************************
 # DATABASE DESCRIPTION
 - Database contains 6 tables:
 	- table 'users' : stores user's username and password
@@ -36,6 +38,8 @@
 	- table 'reservation' : stores reservation data (room number, client id, date in - date from which is room reserved, date out - date to which is room reserved)
 	- table 'registration' : soon to be done
 
+
+*********************************************************************************************************************************************************************
 # WHAT NEEDS TO BE DONE
 - [ ] change colors in some forms
 - [ ] create registration form
