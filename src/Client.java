@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 public class Client {
     
     MY_CONNECTION myConn= new MY_CONNECTION();
-    //function adds a client
+    //function adds a clientt
     public boolean addClient(String fname, String lname, String phone, String email){
         PreparedStatement st;
         ResultSet rs;
